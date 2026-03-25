@@ -13,5 +13,23 @@ export const Contador = () => {
             Disminuir
         </button>
     </div>
+
+    /* 
+    
+    rtyaaaaaaa
+    rtyaaaaaaaaaa
+    ryaaaaaaaaaa
+    rtyyrtyaaaaaaaaaaaa
+    aaaaaaaaaaa
+    rtyrtaaaaaaaaaaaaa
+    uytjaaaaaaaaaaaaa
+    ngertyaaaaaaaaaaaaaaaaa
+    tyrtyraaaaaaaaaa
+    rtytrytwryaaaaaaaaaa
+    ty
+    tywtywtrattaawrwaaargtrjheyhwbaaaaaaaa
+    grgrgrgrg
+    
+    */
   )
 }
