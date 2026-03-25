@@ -12,6 +12,19 @@ export const Contador = () => {
         <button onClick={ () => setContador(contador - 1)}>
             Disminuir
         </button>
+        /*
+        a
+        a
+        a
+        a
+        a
+        a
+        a
+        a
+        a
+        a
+        a
+        */
     </div>
   )
 }
