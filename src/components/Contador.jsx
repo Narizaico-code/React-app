@@ -9,7 +9,9 @@ export const Contador = () => {
             Incrementar
         </button>
 
-        
+        <button onClick={ () => setContador(contador - 1)}>
+            Disminuir
+        </button>
     </div>
   )
 }
