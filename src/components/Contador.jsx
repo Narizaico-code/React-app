@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 export const Contador = () => {
     const [contador, setContador] = useState(0);
   return (
@@ -26,5 +26,23 @@ export const Contador = () => {
         a
         */
     </div>
+
+    /* 
+    
+    rtyaaaaaaa
+    rtyaaaaaaaaaa
+    ryaaaaaaaaaa
+    rtyyrtyaaaaaaaaaaaa
+    aaaaaaaaaaa
+    rtyrtaaaaaaaaaaaaa
+    uytjaaaaaaaaaaaaa
+    ngertyaaaaaaaaaaaaaaaaa
+    tyrtyraaaaaaaaaa
+    rtytrytwryaaaaaaaaaa
+    ty
+    tywtywtrattaawrwaaargtrjheyhwbaaaaaaaa
+    grgrgrgrg
+    
+    */
   )
 }
